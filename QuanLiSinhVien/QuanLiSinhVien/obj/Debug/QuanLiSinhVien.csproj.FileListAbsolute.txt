@@ -1,0 +1,10 @@
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Form1.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.GenerateResource.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\20%\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
